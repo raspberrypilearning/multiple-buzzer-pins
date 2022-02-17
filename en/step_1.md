@@ -8,6 +8,8 @@ line_numbers: false
 line_number_start: 1
 line_highlights: 
 ---
-speaker = Speaker(5)
-speaker = Speaker(10)
+speaker_1 = Speaker(5)
+speaker_2 = Speaker(10)
 --- /code ---
+
+**Tip**: You might want to use variable names that are specific to what the speaker should do. For example, `drum_beat`.
