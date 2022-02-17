@@ -1,0 +1,9 @@
+title: Set the pins for two buzzers
+hero_image: images/banner.png
+description: How to set the pins for two buzzers on a Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-17"
+steps:
+  - title: Set the pins for two buzzers
