@@ -1,4 +1,4 @@
-To set the pins for a buzzer, enter the following code:
+Import Speaker from the picozero library then set the pins for multiple buzzers, use the following code: 
 
 --- code ---
 ---
@@ -8,6 +8,8 @@ line_numbers: false
 line_number_start: 1
 line_highlights: 
 ---
+from picozero import Speaker
+
 speaker_1 = Speaker(5)
 speaker_2 = Speaker(10)
 --- /code ---
