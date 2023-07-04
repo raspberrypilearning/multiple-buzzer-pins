@@ -1,4 +1,4 @@
-Import Speaker from the picozero library then set the pins for multiple buzzers, use the following code:
+Importeer Speaker uit de picozero-bibliotheek en stel vervolgens de pinnen in voor meerdere zoemers, gebruik de volgende code:
 
 --- code ---
 ---
@@ -9,4 +9,4 @@ from picozero import Speaker
 
 speaker_1 = Speaker(5) speaker_2 = Speaker(10) --- /code ---
 
-**Tip**: You might want to use variable names that are specific to what the speaker should do. For example, `drum_beat`.
+**Tip**: Gebruik variabelenamen die aangeven wat de luidspreker zou moeten doen. Bijvoorbeeld `drum_beat`.
