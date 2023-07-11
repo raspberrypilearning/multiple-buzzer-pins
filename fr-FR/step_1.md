@@ -10,8 +10,8 @@ line_highlights:
 ---
 from picozero import Speaker
 
-hautparleur_1 = Speaker(5)
-hautparleur_2 = Speaker(10)
+haut_parleur_1 = Speaker(5)
+haut_parleur_2 = Speaker(10)
 --- /code ---
 
 **Astuce**: Tu voudrais peut-être utiliser des noms de variables spécifiques à ce que le haut-parleur doit faire. Par exemple, `drum_beat`.
